@@ -1,0 +1,62 @@
+/* NEWS CARDS */
+.news-cards1{
+    width: 540px;
+    height: 470px;
+    float: left;
+    margin: 10px 0;
+    margin-right: 25px;
+    margin-left: 26px;
+    background-color: rgba(255, 255, 255, 0.431);
+}
+.news-cards2{
+    width: 540px;
+    height: 470px;
+    float: left;
+    margin: 10px 0;
+    margin-right: 25px;
+    background-color: rgba(255, 255, 255, 0.431);
+}
+.news-cards3{
+    width: 540px;
+    height: 470px;
+    float: left;
+    margin: 10px 0;
+    margin-right: 25px;
+    background-color: rgba(255, 255, 255, 0.431);
+}
+.news-cards4{
+    width: 540px;
+    height: 470px;
+    float: left;
+    margin: 10px 0;
+    background-color: rgba(255, 255, 255, 0.431);
+}
+
+.news-cards1 img,.news-cards2 img,.news-cards3 img,.news-cards4 img{
+    width: 540px;
+    height: 300px;
+    
+}
+
+.news-cards1 h3,.news-cards2 h3,.news-cards3 h3,.news-cards4 h3{
+    font-size: 20px;
+    margin: 10px 0;
+    padding-left: 5px;
+}
+
+.news-cards1 a,.news-cards2 a,.news-cards3 a,.news-cards4 a{
+    padding: 10px 0;
+    color: black;
+    text-transform: uppercase;
+    display: inline-block;
+    font-weight: bold;
+    padding-left: 5px;
+}
+
+.news-cards1 a:hover,.news-cards2 a:hover,.news-cards3 a:hover,.news-cards4 a:hover{
+    text-decoration: underline;
+}
+
+.news-cards1 p,.news-cards2 p,.news-cards3 p,.news-cards4 p{
+    padding-left: 5px;
+}
